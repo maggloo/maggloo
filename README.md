@@ -1,10 +1,10 @@
 
-## <img src="https://cdn.dribbble.com/users/926537/screenshots/8768655/media/0eb8fcc9f2b8a55c589cfabd6cc89d94.gif" width="40" height="40" />  Hi there! 👋
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDY2eHd6dGMwajJibHNyYmJpaHMwd2dxdGV6dzRoNjZrMzJqd3Q4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ptqAPgghLtHOa0SLJS/giphy.gif" width="40" height="40" />  Hi there! 👋
 ### A frontend developer looking for new opportunities 
 
 
 - ⚙️ I use daily: `.js`, `.ts`, `.html`, `.css`
-- 💅 Check out my [personal portfolio] (https://maggloo.github.io/MyPortfolio/)
+- 💅 Check out my [personal portfolio](https://maggloo.github.io/MyPortfolio/)
 
   
 <p align="center"><samp>
