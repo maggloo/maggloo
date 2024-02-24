@@ -6,10 +6,10 @@
 
 
 - ⚙️ I use daily: `.js`, `.ts`, `.html`, `.css`
-- 💅 Check out my [personal portfolio](https://maggloo.github.io/MyPortfolio/)
+- 💅 Check out my **[Personal portfolio](https://maggloo.github.io/MyPortfolio/)**
 
 
-<a href="https://github.com/maggloo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=maggloo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="maggloo's github stats" /></a> | <a href="https://github.com/maggloo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maggloo&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/maggloo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=maggloo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="maggloo's github stats" /></a>  <a href="https://github.com/maggloo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maggloo&layout=compact&theme=buefy&hide_border=true" /></a>
   
 <p align="center"><samp>
 Check out my repos ⬇️  
