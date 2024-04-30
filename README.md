@@ -10,7 +10,7 @@
 - 💅 Check out my **[Portfolio](https://maggloo.github.io/MyPortfolio/)**
 
 
-[My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&theme=github&line1=react%2Creact%2Cf160ac%3Bnext.js%2Cnext.js%2C62ca80%3Btypescript%2Ctypescript%2C91f3f8%3B&line2=sass%2Csass%2C907ed8%3Bgit%2Cgit%2Ce4f337%3Bfigma%2Cfigma%2C9b26e1%3B)
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&theme=github&line1=react%2Creact%2Cf160ac%3Bnext.js%2Cnext.js%2C62ca80%3Btypescript%2Ctypescript%2C91f3f8%3B&line2=sass%2Csass%2C907ed8%3Bgit%2Cgit%2Ce4f337%3Bfigma%2Cfigma%2C9b26e1%3B)]
 <a href="https://github.com/maggloo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maggloo&layout=compact&theme=buefy&hide_border=true" />
   
 <p align="center"><samp>
