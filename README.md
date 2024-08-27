@@ -4,6 +4,7 @@
 ### A frontend developer
 
 
+
 - ⚙️ I use daily: `.js`, `.ts`, `.jsx`, `.tsx`, `.html`, `.css`
 - 🌱 My **[CV](https://drive.google.com/file/d/16xH-G9ixNLfPfx8DWSNibCMbZsTu9-eK/view?export=download)**
 - 💬 Connect with me on **[LinkedIn](https://www.linkedin.com/in/margarita-privalko-6a6040240/)**
