@@ -3,6 +3,7 @@
 
 ### An experienced frontend developer
 
+Looking for new opportunties and open to your suggestions! 🤩
 
 - ⚙️ I use daily: `.js`, `.ts`, `.jsx`, `.tsx`, `.html`, `.css`
 - 🌱 My **[CV](https://drive.google.com/file/d/16xH-G9ixNLfPfx8DWSNibCMbZsTu9-eK/view?export=download)**
